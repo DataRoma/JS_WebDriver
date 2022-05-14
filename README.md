@@ -26,5 +26,4 @@ for example:
 ### Run REPL with Chrome
 `npm run repl`
 
-### SITE
-[https://anatoly-karpovich.github.io/HiqoMeetup/]
+
